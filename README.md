@@ -1,1 +1,1 @@
-this is my first time with git/github
+first time with git/github
